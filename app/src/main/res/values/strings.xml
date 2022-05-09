@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">TicTacToe</string>
+    <string name="home_title">Tic Tac Toe</string>
+    <string name="by_creator">by IsayevApps</string>
+    <string name="play_text">Play</string>
+    <string name="start_text">Start</string>
+    <string name="player1NameHint">1st Player name</string>
+    <string name="player2NameHint">2nd Player name</string>
+    <string name="home_text">Home</string>
+    <string name="enter_names">Enter names:</string>
 </resources>
